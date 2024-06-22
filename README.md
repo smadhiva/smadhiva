@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @smadhiva
 - 👀 I’m interested in AI related Stuffs and Techy Things
 - 🌱 I’m currently learning concepts of AI in BTECH (CSE(AI))
-- 📫 How to reach me through my mailid smadhivanan1234@gmail.com
+- 📫 How to reach me through
+-     * smadhivanan1234@gmail.com
+-     * www.linkedin.com/in/smadhi1234
 - ⚡ Fun fact: Reading Learing  Application
 
 <!---
