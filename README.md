@@ -21,7 +21,10 @@ Python
 Java
 HTML/CSS
 Education
-B.Tech in Computer Science (AI), Your University, Expected Graduation: 2027
+B.Tech in Computer Science (AI), Amrita Vishwa Vidhyapeetham, Coimbatore, Expected Graduation: 2027
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Smadh_0306)](https://leetcode.com/Smadh_0306)
 
 Connect with Me
 Let's connect and discuss AI, tech, or anything interesting! Feel free to reach out via email or LinkedIn.
+
